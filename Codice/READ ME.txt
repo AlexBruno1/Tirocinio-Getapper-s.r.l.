@@ -1,4 +1,0 @@
-Per la visualizzazione del codice è consigliato l'utilizzo di un IDE come WebStorm o di un'ambiente come Visual Studio Code
-
-Visual Studio Code:
-https://code.visualstudio.com/download
